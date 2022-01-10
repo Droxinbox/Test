@@ -1,0 +1,1 @@
+Esto es una prueba del comando "copy con" que sirve para crear una txt desde consola.
